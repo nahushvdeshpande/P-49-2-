@@ -1,0 +1,26 @@
+body{background-color: aqua;
+     border: solid;
+}
+.heading{border: solid;
+         background-color: beige;
+}
+.firstrow{border: solid 1px;
+display: flex;
+justify-content: space-evenly;
+} 
+.camel{border: solid 5px;
+border-radius: 10px;}
+.chameleon{border: solid 5px;
+border-radius: 10px;}
+.pigeon{border: solid 5px;
+border-radius: 10px;}
+
+.secondrow{border: solid 1px;
+    display: flex;
+    justify-content: space-evenly;
+    } 
+.bear{border: solid 5px;
+border-radius: 10px;}
+.panda{border:solid 5px;
+border-radius: 10px;}    
+    
